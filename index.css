@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: white;
+
+}
+body{
+    height:54em;
+    border: 30px;
+    margin:0em;
+    background-color: red;
+    border-color: blue;
+    border-style: solid;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
